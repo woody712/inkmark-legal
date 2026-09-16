@@ -38,7 +38,7 @@ Features may be updated or discontinued for product, security, legal, or platfor
 
 ### Updates and contact
 
-Updated Terms will be published in the app or release notes. Continued use means acceptance of the updated Terms. Contact us using the developer contact shown on the Google Play listing.
+Updated Terms will be published in the app or release notes. Continued use means acceptance of the updated Terms. Contact us at qchunk@163.com.
 
 ## 简体中文
 
@@ -76,4 +76,4 @@ InkMark 提供照片水印、拍摄信息读取、布局调整、配方保存和
 
 ### 协议更新与联系
 
-协议更新后会在应用内或商店版本信息中公布。继续使用即表示接受更新后的协议。如有疑问，请通过 Google Play 商店页面所列开发者联系方式联系我们。
+协议更新后会在应用内或商店版本信息中公布。继续使用即表示接受更新后的协议。如有疑问，请发送邮件至 qchunk@163.com。

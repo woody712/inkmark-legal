@@ -30,7 +30,7 @@ The app uses operating-system photo selection and library-saving services. If in
 
 ### Children's privacy
 
-InkMark is not primarily directed to children and does not knowingly collect children's personal information. Guardians may contact us through the developer contact shown on the store listing.
+InkMark is not primarily directed to children and does not knowingly collect children's personal information. Guardians may contact us at qchunk@163.com.
 
 ### Security and changes
 
@@ -38,7 +38,7 @@ We use reasonable measures to protect local app data. This policy may change whe
 
 ### Contact
 
-For privacy or data-handling questions, contact us using the developer contact information published on the Google Play listing.
+For privacy or data-handling questions, contact us at qchunk@163.com.
 
 ## 简体中文
 
@@ -68,7 +68,7 @@ InkMark 重视你的隐私。当前版本的照片处理、EXIF 读取、水印�
 
 ### 儿童隐私
 
-InkMark 不以儿童为主要目标用户，也不会主动收集儿童个人信息。监护人如发现相关问题，可通过应用商店页面所列联系方式联系我们。
+InkMark 不以儿童为主要目标用户，也不会主动收集儿童个人信息。监护人如发现相关问题，可通过 qchunk@163.com 联系我们。
 
 ### 安全与变更
 
@@ -76,4 +76,4 @@ InkMark 不以儿童为主要目标用户，也不会主动收集儿童个人信
 
 ### 联系我们
 
-如对隐私政策或数据处理有疑问，请通过 Google Play 商店页面中公布的开发者联系方式联系我们。
+如对隐私政策或数据处理有疑问，请发送邮件至 qchunk@163.com。
